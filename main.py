@@ -26,7 +26,7 @@ headers = {
 }
 
 schoolID = ""   # get schoolID as variable -> gui?
-count = 1      # how many codes should be uploaded to ecwid
+count = 10      # how many codes should be uploaded to ecwid
 number = 5      # how many letters in code
 i = 0
 
